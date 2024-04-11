@@ -7,4 +7,4 @@ Project highlights the use of
 * API
 * Redis
 * Flask
-
+* Docker
